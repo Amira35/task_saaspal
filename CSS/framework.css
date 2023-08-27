@@ -1,0 +1,28 @@
+.p-11{
+    padding-top: 11rem;
+}
+.font-40{
+    font-size:40px;
+}
+.font-fw{
+    font-family: Arimo;
+    font-weight: 700;
+}
+.font-a{
+    font-size: 25px;
+    font-family: Arimo;
+    font-weight: 700;
+}
+.font-o{
+    font-size: 18px;
+    font-family: open sans,sans-serif;
+}
+.color-b{
+    color: #162447;
+}
+.color-g{
+    color: #5b657e;
+}
+.line{
+    line-height: 28px;
+}
